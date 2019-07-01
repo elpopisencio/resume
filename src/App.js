@@ -2,6 +2,7 @@ import React from 'react';
 import ContactMe from './components/ContactMe';
 import Technologies from './components/Technologies';
 import Summary from './components/Summary';
+import './styles.css';
 
 const App = () => {
 	return (
